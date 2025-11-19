@@ -11,7 +11,7 @@ exclude_patterns:
   - .venv/*
 
 execute:
-  execute_notebooks: "force"
+  execute_notebooks: "off"
 
 sphinx:
   config:
