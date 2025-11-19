@@ -1,7 +1,7 @@
 ipykernel
 pandas
 plotly
-
+kaleido
 # needed for plotly
 nbformat
 statsmodels
