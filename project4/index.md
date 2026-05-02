@@ -104,13 +104,19 @@ The project was developed as a live application, which means usability, page str
 Below are screenshots of the application in case the live version becomes unavailable.
 
 ### Homepage
-![Homepage](screenshot1.png)
+![Homepage](homepage.png)
 
-### Complaint Concentration Analysis
-![Complaint concentration analysis](screenshot2.png)
+### Proposal
+![Proposal](proposal.png)
 
-### Group Comparison Visualization
-![Group comparison visualization](screenshot3.png)
+### RQ1
+![RQ1](rq1.png)
+
+### RQ2
+![RQ2](rq2.png)
+
+### RQ3
+![RQ3](rq3.png)
 
 ---
 
