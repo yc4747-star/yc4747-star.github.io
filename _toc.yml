@@ -5,3 +5,5 @@ chapters:
   - file: project1
   - file: project2/project2
   - file: project3/project3
+  - file: project4/index
+  
